@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="You are the administrator of a hotel and must create customer information cards for your new customers. On the card, you must note the customer’s first and last name, age, and room number. &#10;&#10;The program you are given takes a guest's data (first name, last name, age, and room number) as input.&#10;&#10;Complete the class by adding corresponding attributes so that the saveCustomerInfo() method works correctly. Also assign taken data values to attributes of created object.">
-      <change afterPath="$PROJECT_DIR$/src/sololearn/reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CrazyPrograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practices/CrazyPrograms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practices/Date_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RockPaperScissor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practices/RockPaperScissor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sololearn/HotelVisitingCard.java" beforeDir="false" />
+    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="new constructor">
+      <change afterPath="$PROJECT_DIR$/src/sololearn/hotelticket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ashit.maharana/IdeaProjects/Practise",
+    "last_opened_file_path": "C:/Users/ashit.maharana/IdeaProjects/SoloLearn",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -114,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689919447290</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new constructor">
+      <created>1689928985300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689928985300</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -135,7 +137,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="i have updated it for more fun" />
     <MESSAGE value="You are the administrator of a hotel and must create customer information cards for your new customers. On the card, you must note the customer’s first and last name, age, and room number. &#10;&#10;The program you are given takes a guest's data (first name, last name, age, and room number) as input.&#10;&#10;Complete the class by adding corresponding attributes so that the saveCustomerInfo() method works correctly. Also assign taken data values to attributes of created object." />
-    <option name="LAST_COMMIT_MESSAGE" value="You are the administrator of a hotel and must create customer information cards for your new customers. On the card, you must note the customer’s first and last name, age, and room number. &#10;&#10;The program you are given takes a guest's data (first name, last name, age, and room number) as input.&#10;&#10;Complete the class by adding corresponding attributes so that the saveCustomerInfo() method works correctly. Also assign taken data values to attributes of created object." />
+    <MESSAGE value="new constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="new constructor" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
