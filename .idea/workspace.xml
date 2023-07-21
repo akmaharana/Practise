@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Date_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RockPaperScissor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="i have updated it for more fun">
+      <change afterPath="$PROJECT_DIR$/src/com/sololearn/HotelVisitingCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CrazyPrograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CrazyPrograms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StonePaperScissor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrazyPrograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practices/CrazyPrograms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Date_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practices/Date_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RockPaperScissor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practices/RockPaperScissor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="RockPaperScissor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RockPaperScissor" />
+      <option name="MAIN_CLASS_NAME" value="com.practices.RockPaperScissor" />
       <module name="Practise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1689090999331</updated>
     </task>
+    <task id="LOCAL-00001" summary="i have updated it for more fun">
+      <created>1689830987822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689830987822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -88,6 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="i have updated it for more fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="i have updated it for more fun" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
