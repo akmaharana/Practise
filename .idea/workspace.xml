@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="new constructor">
-      <change afterPath="$PROJECT_DIR$/src/sololearn/hotelticket.java" afterDir="false" />
+    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="hotel ticket">
+      <change afterPath="$PROJECT_DIR$/src/sololearn/hotelCustomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689928985300</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hotel ticket">
+      <created>1689929173772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689929173772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -138,7 +145,8 @@
     <MESSAGE value="i have updated it for more fun" />
     <MESSAGE value="You are the administrator of a hotel and must create customer information cards for your new customers. On the card, you must note the customer’s first and last name, age, and room number. &#10;&#10;The program you are given takes a guest's data (first name, last name, age, and room number) as input.&#10;&#10;Complete the class by adding corresponding attributes so that the saveCustomerInfo() method works correctly. Also assign taken data values to attributes of created object." />
     <MESSAGE value="new constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="new constructor" />
+    <MESSAGE value="hotel ticket" />
+    <option name="LAST_COMMIT_MESSAGE" value="hotel ticket" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
