@@ -1,3 +1,5 @@
+package com.practices;
+
 class crazy {
     public static void show() {
         System.out.println("welcome");

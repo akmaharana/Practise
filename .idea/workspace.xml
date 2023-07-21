@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="i have updated it for more fun">
-      <change afterPath="$PROJECT_DIR$/src/com/sololearn/HotelVisitingCard.java" afterDir="false" />
+    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="You are the administrator of a hotel and must create customer information cards for your new customers. On the card, you must note the customer’s first and last name, age, and room number. &#10;&#10;The program you are given takes a guest's data (first name, last name, age, and room number) as input.&#10;&#10;Complete the class by adding corresponding attributes so that the saveCustomerInfo() method works correctly. Also assign taken data values to attributes of created object.">
+      <change afterPath="$PROJECT_DIR$/src/sololearn/reference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CrazyPrograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practices/CrazyPrograms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Date_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practices/Date_Class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RockPaperScissor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practices/RockPaperScissor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sololearn/HotelVisitingCard.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +25,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2360961a-182e-4bb5-ac26-0c3393b421d0" />
+        <option name="url" value="https://github.com/akmaharana/sololearn.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,14 +48,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ashit.maharana/IdeaProjects/Practise",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.reference">
     <configuration name="RockPaperScissor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practices.RockPaperScissor" />
       <module name="Practise" />
@@ -54,8 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sololearn.reference" />
+      <module name="Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sololearn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reference" />
         <item itemvalue="Application.RockPaperScissor" />
       </list>
     </recent_temporary>
@@ -76,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689830987822</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="You are the administrator of a hotel and must create customer information cards for your new customers. On the card, you must note the customer’s first and last name, age, and room number. &#10;&#10;The program you are given takes a guest's data (first name, last name, age, and room number) as input.&#10;&#10;Complete the class by adding corresponding attributes so that the saveCustomerInfo() method works correctly. Also assign taken data values to attributes of created object.">
+      <created>1689918880882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689918880882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="You are the administrator of a hotel and must create customer information cards for your new customers. On the card, you must note the customer’s first and last name, age, and room number. &#10;&#10;The program you are given takes a guest's data (first name, last name, age, and room number) as input.&#10;&#10;Complete the class by adding corresponding attributes so that the saveCustomerInfo() method works correctly. Also assign taken data values to attributes of created object.">
+      <created>1689919447290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689919447290</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -96,7 +134,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="i have updated it for more fun" />
-    <option name="LAST_COMMIT_MESSAGE" value="i have updated it for more fun" />
+    <MESSAGE value="You are the administrator of a hotel and must create customer information cards for your new customers. On the card, you must note the customer’s first and last name, age, and room number. &#10;&#10;The program you are given takes a guest's data (first name, last name, age, and room number) as input.&#10;&#10;Complete the class by adding corresponding attributes so that the saveCustomerInfo() method works correctly. Also assign taken data values to attributes of created object." />
+    <option name="LAST_COMMIT_MESSAGE" value="You are the administrator of a hotel and must create customer information cards for your new customers. On the card, you must note the customer’s first and last name, age, and room number. &#10;&#10;The program you are given takes a guest's data (first name, last name, age, and room number) as input.&#10;&#10;Complete the class by adding corresponding attributes so that the saveCustomerInfo() method works correctly. Also assign taken data values to attributes of created object." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
