@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="hotel customer question">
-      <change afterPath="$PROJECT_DIR$/src/sololearn/Counter.java" afterDir="false" />
+    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="counter">
+      <change afterPath="$PROJECT_DIR$/src/sololearn/GetSetWithAbstract.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sololearn/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sololearn/Counter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ashit.maharana/IdeaProjects/SoloLearn",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ashit.maharana/IdeaProjects/SoloLearn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="RockPaperScissor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practices.RockPaperScissor" />
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689929267318</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="counter">
+      <created>1689930338350</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689930338350</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -155,7 +163,8 @@
     <MESSAGE value="new constructor" />
     <MESSAGE value="hotel ticket" />
     <MESSAGE value="hotel customer question" />
-    <option name="LAST_COMMIT_MESSAGE" value="hotel customer question" />
+    <MESSAGE value="counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="counter" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
