@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="counter">
-      <change afterPath="$PROJECT_DIR$/src/sololearn/GetSetWithAbstract.java" afterDir="false" />
+    <list default="true" id="6525fa29-3223-445c-9fb6-72342c0b03ae" name="Changes" comment="New Question&#10;A board game company creates new board games every year. While all the games have different rules, they also are all similar in that they each have a name and a play() method.&#10;&#10;We need to create 3 different games - Monopoly, Chess and Battleships. In the play() method Monopoly should print “Buy all property.”, Battleships - “Sink all ships.”, and Chess - “Kill the enemy king.”&#10;&#10;Complete the code by implementing the getName() and play() methods inherited from abstract Game class.">
+      <change afterPath="$PROJECT_DIR$/src/sololearn/CatDogInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sololearn/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sololearn/Counter.java" afterDir="false" />
     </list>
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689930338350</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New Question&#10;A board game company creates new board games every year. While all the games have different rules, they also are all similar in that they each have a name and a play() method.&#10;&#10;We need to create 3 different games - Monopoly, Chess and Battleships. In the play() method Monopoly should print “Buy all property.”, Battleships - “Sink all ships.”, and Chess - “Kill the enemy king.”&#10;&#10;Complete the code by implementing the getName() and play() methods inherited from abstract Game class.">
+      <created>1690113112508</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690113112508</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -164,7 +171,8 @@
     <MESSAGE value="hotel ticket" />
     <MESSAGE value="hotel customer question" />
     <MESSAGE value="counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="counter" />
+    <MESSAGE value="New Question&#10;A board game company creates new board games every year. While all the games have different rules, they also are all similar in that they each have a name and a play() method.&#10;&#10;We need to create 3 different games - Monopoly, Chess and Battleships. In the play() method Monopoly should print “Buy all property.”, Battleships - “Sink all ships.”, and Chess - “Kill the enemy king.”&#10;&#10;Complete the code by implementing the getName() and play() methods inherited from abstract Game class." />
+    <option name="LAST_COMMIT_MESSAGE" value="New Question&#10;A board game company creates new board games every year. While all the games have different rules, they also are all similar in that they each have a name and a play() method.&#10;&#10;We need to create 3 different games - Monopoly, Chess and Battleships. In the play() method Monopoly should print “Buy all property.”, Battleships - “Sink all ships.”, and Chess - “Kill the enemy king.”&#10;&#10;Complete the code by implementing the getName() and play() methods inherited from abstract Game class." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
